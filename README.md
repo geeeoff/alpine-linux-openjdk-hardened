@@ -7,7 +7,7 @@ To use:
 To login to container:
 `docker run -it --rm gyaworski/alpine-linux-openjdk-hardened:alpine-3.6-openjdk-8.131.11-r2-hardened-1.0 /bin/ash` or `docker run -it --rm gyaworski/alpine-linux-openjdk-hardened:latest /bin/ash`
 
-[Docker Hub repo is here](https://hub.docker.com/r/gyaworski/aalpine-linux-openjdk-hardened/)
+[Docker Hub repo is here](https://hub.docker.com/r/gyaworski/alpine-linux-openjdk-hardened/)
 
 #### Understand what you are using, look at the code, don't take security for granted. 
 
